@@ -1,0 +1,7 @@
+First Name: e
+Last Name: h
+Result of adding 1 and 2: 3
+Result of multiplying 1 and 2: 2
+Input file contents: 
+
+Hello!
