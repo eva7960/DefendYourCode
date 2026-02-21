@@ -1,7 +1,9 @@
 First Name: e
 Last Name: h
-Result of adding 1 and 2: 3
-Result of multiplying 1 and 2: 2
-Input file contents: 
-
+First Integer: 1
+Second Integer: 1
+Sum: 2
+Product: 1
+Input File Name: input.txt
+Input File Contents:
 Hello!
